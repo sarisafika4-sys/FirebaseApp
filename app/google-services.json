@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846742930994",
+    "project_id": "androidfirebaseapp-22017",
+    "storage_bucket": "androidfirebaseapp-22017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846742930994:android:01067227b1f30d444fde2b",
+        "android_client_info": {
+          "package_name": "id.ac.polbeng.sarishafika.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oLd_E0opbQuR1qGSrER-_0-Hwp9R-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
